@@ -16,7 +16,7 @@ https://templatemo.com/tm-584-pod-talk
   --primary-color:                #00CC99;
   --secondary-color:              #0066CC;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #0066CC;
+  --custom-btn-bg-color:          #359381;
   --custom-btn-bg-hover-color:    #00CC99;
   --dark-color:                   #000000;
   --p-color:                      #717275;
@@ -532,7 +532,7 @@ main {
   font-size: 20px;
 }
 .badge {
-  background-color: var(--custom-btn-bg-color);
+  background-color: #359381;
   font-family: var(--title-font-family);
   border-radius: var(--border-radius-large);
   color: var(--white-color);
